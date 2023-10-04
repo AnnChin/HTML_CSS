@@ -1,0 +1,67 @@
+* {
+    font-family: sans-serif;
+}
+
+.text {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+.text__footer {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+.text__law {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+.home {
+    font-size: 64px;
+    color: #1F3F68;
+}
+
+.heading__title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.heading__footer {
+    font-size: 20px;
+    text-align: center;
+}
+
+.heading__carousel {
+    font-style: 20px;
+    text-align: center;
+}
+
+.heading__contact {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+
+input,
+textarea {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+.but {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
